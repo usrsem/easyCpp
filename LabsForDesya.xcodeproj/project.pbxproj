@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		84F4BBB2259CDB0500452405 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 84F4BBB1259CDB0500452405 /* main.cpp */; };
+		84F4BBB2259CDB0500452405 /* lab5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 84F4BBB1259CDB0500452405 /* lab5.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		84F4BBAE259CDB0400452405 /* LabsForDesya */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LabsForDesya; sourceTree = BUILT_PRODUCTS_DIR; };
-		84F4BBB1259CDB0500452405 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		84F4BBB1259CDB0500452405 /* lab5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = lab5.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		84F4BBB0259CDB0400452405 /* LabsForDesya */ = {
 			isa = PBXGroup;
 			children = (
-				84F4BBB1259CDB0500452405 /* main.cpp */,
+				84F4BBB1259CDB0500452405 /* lab5.cpp */,
 			);
 			path = LabsForDesya;
 			sourceTree = "<group>";
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				84F4BBB2259CDB0500452405 /* main.cpp in Sources */,
+				84F4BBB2259CDB0500452405 /* lab5.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
