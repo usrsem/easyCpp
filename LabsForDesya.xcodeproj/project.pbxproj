@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4354ED2425A8A9120019BEA6 /* lab7.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4354ED2225A8A9120019BEA6 /* lab7.cpp */; };
+		4354ED2825A8B2EC0019BEA6 /* lab8.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4354ED2725A8B2EC0019BEA6 /* lab8.cpp */; };
+		846CCEE6259D2B1800FBCA2B /* lab6.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 846CCEE5259D2B1800FBCA2B /* lab6.cpp */; };
 		84F4BBB2259CDB0500452405 /* lab5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 84F4BBB1259CDB0500452405 /* lab5.cpp */; };
 /* End PBXBuildFile section */
 
@@ -23,6 +26,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		4354ED2225A8A9120019BEA6 /* lab7.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = lab7.cpp; sourceTree = "<group>"; };
+		4354ED2725A8B2EC0019BEA6 /* lab8.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = lab8.cpp; sourceTree = "<group>"; };
+		846CCEE5259D2B1800FBCA2B /* lab6.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = lab6.cpp; sourceTree = "<group>"; };
 		84F4BBAE259CDB0400452405 /* LabsForDesya */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LabsForDesya; sourceTree = BUILT_PRODUCTS_DIR; };
 		84F4BBB1259CDB0500452405 /* lab5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = lab5.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -58,6 +64,9 @@
 			isa = PBXGroup;
 			children = (
 				84F4BBB1259CDB0500452405 /* lab5.cpp */,
+				846CCEE5259D2B1800FBCA2B /* lab6.cpp */,
+				4354ED2225A8A9120019BEA6 /* lab7.cpp */,
+				4354ED2725A8B2EC0019BEA6 /* lab8.cpp */,
 			);
 			path = LabsForDesya;
 			sourceTree = "<group>";
@@ -118,7 +127,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4354ED2825A8B2EC0019BEA6 /* lab8.cpp in Sources */,
+				846CCEE6259D2B1800FBCA2B /* lab6.cpp in Sources */,
 				84F4BBB2259CDB0500452405 /* lab5.cpp in Sources */,
+				4354ED2425A8A9120019BEA6 /* lab7.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

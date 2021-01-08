@@ -63,7 +63,7 @@ void PrintToConsole(Student (&students2DArray)[Rows][Columns])
     }
 
 }
-
+/*
 int main()
 {
     int arr2D[10];
@@ -95,3 +95,4 @@ int main()
     
     return 0;
 }
+*/
